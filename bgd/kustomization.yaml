@@ -1,6 +1,6 @@
 namespace: bgd
 resources:
-- bgd-svc.yaml
+- bgd-namespace.yaml
 - bgd-deployment.yaml
 - bgd-route.yaml
-- bgd-ns.yaml
+- bgd-svc.yaml
