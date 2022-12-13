@@ -2,7 +2,6 @@ apiVersion: route.openshift.io/v1
 kind: Route
 metadata:
   creationTimestamp: null
-  namespace: bgd
   labels:
     app: bgd
   name: bgd
